@@ -1,5 +1,5 @@
-p{
-    color: blue;
+/* p{
+    color: black;
     text-align: center;
 
 }
@@ -11,3 +11,32 @@ p{
     font-size: 20px;
     color: red;
 }
+div{ 
+    height: 200px;
+    width: 400px;
+    padding: 20px;
+    margin: 30px;
+
+}
+.container{
+    border: 2px dotted black;
+    background-color: lightgrey;
+    
+}
+.box1{
+    background-color: yellow;
+    border: 2px solid green;
+}
+.box2{
+  background-color: pink;
+  border: 2px dashed black;
+}
+
+.box3{
+  background-color: green;
+    border: 2px double red;
+} */
+ .box{
+    border: 2px solid black;
+    width: 1000px;
+ }
