@@ -1,42 +1,19 @@
-/* p{
-    color: black;
+.outer-box {
+    border: 3px solid black;      /* Border */
+    margin: 40px;                 /* Margin around the box */
+    padding: 30px;                /* Padding inside the box */
     text-align: center;
-
 }
-.p{
-    color: green;
-    background-color: aqua;
+.middle-box {
+    background: blue;             /* Box Color */
+    padding: 30px;
 }
-#jk{
-    font-size: 20px;
-    color: red;
-}
-div{ 
-    height: 200px;
-    width: 400px;
+.inner-box {
+    background: yellow;
     padding: 20px;
-    margin: 30px;
-
+    font-family: 'Times New Roman', Times, serif;
 }
-.container{
-    border: 2px dotted black;
-    background-color: lightgrey;
-    
+.header {
+    font-size: 2em;
+    font-weight: bold;
 }
-.box1{
-    background-color: yellow;
-    border: 2px solid green;
-}
-.box2{
-  background-color: pink;
-  border: 2px dashed black;
-}
-
-.box3{
-  background-color: green;
-    border: 2px double red;
-} */
- .box{
-    border: 2px solid black;
-    width: 1000px;
- }
