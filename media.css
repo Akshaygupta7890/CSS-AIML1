@@ -1,0 +1,17 @@
+.box{
+    height: 100px;
+    width: 100%;
+    background-color: lightblue;
+}
+
+
+
+
+
+
+
+@media(max-width: 768px){
+    body{
+        background-color: lightpink;
+    }
+}
